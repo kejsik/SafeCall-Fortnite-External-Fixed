@@ -1,0 +1,53 @@
+﻿  ue5.cpp
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(6,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(7,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(59,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(59,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(59,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(99,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(100,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(101,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(103,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(104,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(105,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(107,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(108,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(109,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(110,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(111,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(112,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(114,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(115,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(116,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(117,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(119,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(120,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(121,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(122,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(124,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(125,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(126,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(127,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(168,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_utils.h(190,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_settings.h(120,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_settings.h(120,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_settings.h(134,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_settings.h(135,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_settings.h(158,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_settings.h(164,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5.cpp(10,10): fatal error C1083: Cannot open include file: 'C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.33.31629/include/thread': No such file or directory
+  ue5_driver.cpp
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_driver.cpp(57,39): warning C4244: 'return': conversion from 'INT64' to 'NTSTATUS', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_driver.cpp(74,39): warning C4244: 'return': conversion from 'INT64' to 'NTSTATUS', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_render\imgui_widgets.cpp(883,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_render\imgui_widgets.cpp(883,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_render\imgui_widgets.cpp(894,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_render\imgui_widgets.cpp(896,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\niger\Desktop\source\SafeCall-Ratted-Fortnite-Source-main\ue5\ue5_render\imgui_widgets.cpp(896,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data

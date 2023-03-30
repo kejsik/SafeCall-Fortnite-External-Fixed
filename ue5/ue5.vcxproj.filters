@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ue5_utils">
+      <UniqueIdentifier>{ffb3307a-d541-45b3-a87d-124bd7287439}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ue5_main">
+      <UniqueIdentifier>{4934ffb1-f335-4351-b126-b780c94d9420}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ue5_driver">
+      <UniqueIdentifier>{b1955628-9e4f-4b87-9328-d3de5affe128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ue5_other">
+      <UniqueIdentifier>{a1477508-b684-435c-9ab3-6d1568bdcb9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ue5_render">
+      <UniqueIdentifier>{b61cc253-e042-4bef-81b5-f76889065484}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ue5_d3d9">
+      <UniqueIdentifier>{56a0b5c4-84fc-4116-b6c6-5ffbce09da04}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ue5_driver.h">
+      <Filter>ue5_driver</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_lib.hpp">
+      <Filter>ue5_driver</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_render\imconfig.h">
+      <Filter>ue5_render</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_render\imgui.h">
+      <Filter>ue5_render</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_render\imgui_impl_dx9.h">
+      <Filter>ue5_render</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_render\imgui_impl_win32.h">
+      <Filter>ue5_render</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_render\imgui_internal.h">
+      <Filter>ue5_render</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_render\imstb_rectpack.h">
+      <Filter>ue5_render</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_render\imstb_textedit.h">
+      <Filter>ue5_render</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_render\imstb_truetype.h">
+      <Filter>ue5_render</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_utils.h">
+      <Filter>ue5_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_includes.h">
+      <Filter>ue5_main</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_offsets.h">
+      <Filter>ue5_main</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_d3d9\d3dx9.h">
+      <Filter>ue5_d3d9</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_d3d9\d3dx9anim.h">
+      <Filter>ue5_d3d9</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_d3d9\d3dx9core.h">
+      <Filter>ue5_d3d9</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_d3d9\d3dx9effect.h">
+      <Filter>ue5_d3d9</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_d3d9\d3dx9math.h">
+      <Filter>ue5_d3d9</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_d3d9\d3dx9mesh.h">
+      <Filter>ue5_d3d9</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_d3d9\d3dx9shader.h">
+      <Filter>ue5_d3d9</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_d3d9\d3dx9shape.h">
+      <Filter>ue5_d3d9</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_d3d9\d3dx9tex.h">
+      <Filter>ue5_d3d9</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_d3d9\d3dx9xof.h">
+      <Filter>ue5_d3d9</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_defs.h">
+      <Filter>ue5_main</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_settings.h">
+      <Filter>ue5_other</Filter>
+    </ClInclude>
+    <ClInclude Include="ue5_encrypt.h">
+      <Filter>ue5_other</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ue5_driver.cpp">
+      <Filter>ue5_driver</Filter>
+    </ClCompile>
+    <ClCompile Include="ue5.cpp">
+      <Filter>ue5_main</Filter>
+    </ClCompile>
+    <ClCompile Include="ue5_render\imgui.cpp">
+      <Filter>ue5_render</Filter>
+    </ClCompile>
+    <ClCompile Include="ue5_render\imgui_demo.cpp">
+      <Filter>ue5_render</Filter>
+    </ClCompile>
+    <ClCompile Include="ue5_render\imgui_draw.cpp">
+      <Filter>ue5_render</Filter>
+    </ClCompile>
+    <ClCompile Include="ue5_render\imgui_impl_dx9.cpp">
+      <Filter>ue5_render</Filter>
+    </ClCompile>
+    <ClCompile Include="ue5_render\imgui_impl_win32.cpp">
+      <Filter>ue5_render</Filter>
+    </ClCompile>
+    <ClCompile Include="ue5_render\imgui_widgets.cpp">
+      <Filter>ue5_render</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ue5_d3d9\d3dx9math.inl">
+      <Filter>ue5_d3d9</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="SonyDriverHelper.lib">
+      <Filter>ue5_other</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
